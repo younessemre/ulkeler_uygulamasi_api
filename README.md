@@ -1,4 +1,4 @@
-# 🌍 Ülkeler ve Önemli Bilgileri
+# 🌍 Ülkeler ve Hakkında
 
 > **📚 Öğrenme Projesi (Learning Project)**
 
