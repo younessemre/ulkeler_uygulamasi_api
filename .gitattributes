@@ -1,0 +1,13 @@
+# Android, iOS, Windows gibi otomatik dosyaları dilden sayma
+android/** linguist-vendored
+ios/** linguist-vendored
+windows/** linguist-vendored
+linux/** linguist-vendored
+macos/** linguist-vendored
+web/** linguist-vendored
+
+# C++ dosyalarını istatistikte gizle
+*.h linguist-detectable=false
+*.cc linguist-detectable=false
+*.cpp linguist-detectable=false
+*.c linguist-detectable=false
